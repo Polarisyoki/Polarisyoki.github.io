@@ -2,7 +2,7 @@
 
 建设中...
 
-[测试一下链接](myUrl/test.md)
+[测试一下md链接](myUrl/test.md)
 
 
-[测试一下链接](myUrl/test.index)
+[测试一下html链接](myUrl/index.html)
