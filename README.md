@@ -5,5 +5,5 @@
 ## 第一个笔记
 
 还没想好写什么
-[先放个测试链接吧](myUrl/test.md)
+[先放个测试链接吧](notebook/test0.md)
 
