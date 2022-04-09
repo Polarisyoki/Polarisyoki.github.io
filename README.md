@@ -1,8 +1,9 @@
-## metafalica的幻想乡
+# 笔记本
 
 建设中...
 
-[测试一下md链接](myUrl/test.md)
+## 第一个笔记
 
+还没想好写什么
+[先放个测试链接吧](myUrl/test.md)
 
-[测试一下html链接](myUrl/index.html)
