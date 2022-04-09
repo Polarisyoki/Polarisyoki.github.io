@@ -4,4 +4,4 @@
 
 测试文字
 
-测试链接 ./myUrl/index.html
+[测试链接](https://github.com/Polarisyoki/Polarisyoki.github.io/myUrl/index.html)
